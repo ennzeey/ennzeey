@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eniola</h1>
-<h3 align="center">A passionate Data Professional</h3>
+<h3 align="center">A  Data Ninja 🦸‍♂️ </h3>
 
 
 
