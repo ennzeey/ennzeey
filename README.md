@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eniola</h1>
-<h3 align="center">A  Data Ninja 🦸‍♂️ </h3>
+<h3 align="center"> A  Data Ninja 🦸‍♂️ </h3>
 
 
 
@@ -12,7 +12,7 @@
 
 # What I Do
 
-- 🛠️ I work on Data Engineering Projects, where i build robust data pipelines using the ETL processes as well as building data warehouse solutions.
+- 🛠️ I work on Data Engineering, Data Science and Data Analysis Projects, where i build robust data pipelines using the ETL processes as well as Data Science solutions.
 - 📊 A professional Data Analyst with vast experience in exploring datasets to uncovers insights, data trends/patterns, and make data-driven decisions.
 - 🖥️ I'm enthusiastic about delving deeply into the realm of Big Data, managing extensive datasets, and harnessing the capabilities of distributed computing frameworks.
 - 📈 Also exploring Apache Airflow for orchestrating and automating complex data processes.
